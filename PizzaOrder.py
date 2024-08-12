@@ -1,5 +1,6 @@
 print("Welcome to the Python Pizza Delivieries!")
 size = input("What size pizza do you want? S, M, L\n")
+#Can input as many different variables as needed below
 add_pepperoni = input("Do you want pepporoni? Y or N\n")
 extra_cheese = input("Do you want extra chese? Y or N\n")
 
